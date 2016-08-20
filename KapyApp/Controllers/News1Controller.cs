@@ -7,6 +7,8 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using KapyApp.Models;
+using PagedList;
+using PagedList.Mvc;
 
 namespace KapyApp.Controllers
 {
